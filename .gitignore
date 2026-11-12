@@ -1,0 +1,8 @@
+runs/
+.venv/
+__pycache__/
+.env
+.env.*
+*.qpy
+*.npy
+*.npz

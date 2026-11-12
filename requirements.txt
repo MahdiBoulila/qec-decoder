@@ -1,0 +1,7 @@
+stim>=1.15,<2
+pymatching>=2.3,<3
+numpy>=2,<3
+qiskit>=2,<3
+qiskit-aer>=0.17,<1
+qiskit-ibm-runtime>=0.40,<1
+tqec>=0.2,<0.3
